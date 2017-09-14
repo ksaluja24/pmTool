@@ -1,0 +1,1 @@
+java -splash:final.png -classpath it2015tooltest.jar;s.jar;j.jar;C:\mysql\mysql.jar;.;C:\it2015kp\build\libs\it2015kp.jar SplashDemo

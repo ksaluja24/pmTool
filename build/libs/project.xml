@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project>
+<title>Inventory Management</title>
+<folder>c:\inventorymanagement\src\main\java</folder>
+<package>com.management.inventory</package>
+<database-driver>com.mysql.jdbc.Driver</database-driver>
+<connection-string>jdbc:mysql://localhost:3306/snbdb</connection-string>
+<database-username>root</database-username>
+<database-password>kamal</database-password>
+<project-home>c:\inventorymanagement</project-home>
+<gradle-home>C:\gradle-1.10</gradle-home>
+</project>

@@ -1,0 +1,1 @@
+javac -classpath it2015tooltest.jar;. *.java
